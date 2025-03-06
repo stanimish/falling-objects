@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0; 
+    color: #fffce1;
+    background: #111;
+    font-family: 'Helvetica', serif;
+}
+
+footer {
+    position: relative;
+    height: 100vh;
+    padding: 13px;
+    box-sizing: border-box;
+}
+
+.div-block-9 {
+    position: relative;
+}
+
+h1:first-child {
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 20px;
+    width: 11em;
+    font-weight: normal;
+}
+
+
+#webgl-canvas-2 {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
