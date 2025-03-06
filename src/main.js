@@ -5,7 +5,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const options = {
   showHelper: false,
-  pathToDollarPng: "./src/footer-dollar@2x.png",
+  pathToDollarPng: "/src/footer-dollar@2x.png",
   number: 10,
   m_number: 33,
   sideOffset: 13.0,
